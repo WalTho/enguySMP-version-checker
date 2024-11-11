@@ -1,8 +1,8 @@
-# 🛠️ Mise à jour 1.2.1
+# 🛠️ Mise à jour 1.2.2
 
 ### Nouveautés et Améliorations
 
-- **Modpack Update Checker 1.2.0**
+- **Modpack Update Checker**
   Ajout d’un système de vérification des mises à jour de modpacks.
 
 - **easy-npcs**
