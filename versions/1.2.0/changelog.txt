@@ -1,0 +1,31 @@
+# 🛠️ Mise à jour 1.2.0
+
+### Nouveautés et Améliorations
+
+- **Modpack Update Checker 1.2.0**
+  Ajout d’un système de vérification des mises à jour de modpacks.
+
+- **easy-npcs**
+  Facilite la création de NPCs pour les administrateurs, rendant l'ajout de personnages interactifs plus simple et rapide.
+
+- **mcw-holidays**
+  Plongez dans l’ambiance festive avec des décorations et événements de Noël spécialement conçus pour les joueurs.
+
+- **glowcase**
+  Permet aux administrateurs de créer des textes flottants personnalisés, parfaits pour annoncer des événements ou des zones spéciales.
+
+- **Magnum Torch**
+  Nouvelle fonctionnalité pour les joueurs, qui peuvent désormais poser des torches Magnum, empêchant l’apparition de mobs dans un large rayon autour d'elles.
+
+- **Content Creator Integration**
+  Conçu pour les streamers, ce mod ajoute des actions interactives qui enrichissent l’expérience des spectateurs en direct.
+
+- **Scoreboard Overhaul**
+  Permet une personnalisation avancée du scoreboard pour les administrateurs, leur donnant un contrôle total sur l’apparence et les informations affichées.
+
+- **JEI**
+  JEI est un mod de visualisation d'objets et de recettes pour Minecraft, conçu à la base pour la stabilité et la performance.
+
+- **Paramètres divers du client**
+  Améliore la qualité de vie des joueurs, nottament lié à Plasmo Voice.
+---
