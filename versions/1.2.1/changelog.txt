@@ -1,4 +1,4 @@
-# 🛠️ Mise à jour 1.2.0
+# 🛠️ Mise à jour 1.2.1
 
 ### Nouveautés et Améliorations
 
